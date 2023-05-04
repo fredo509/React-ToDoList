@@ -28,7 +28,7 @@
 
 # 📖 Math Magicians App<a name="about-project"></a>
 
-**Math Magicians App** is an app you can use to make big and small and small mathematical operations
+**To do App** is an app you can use to manage your working time 
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -99,11 +99,11 @@ In order to run this project you need:
 - [ ] Clone this repository to your desired folder using the command:
 
 ```
-git clone https://github.com/dazehinn/math-magicians.git
+git clone https://github.com/dazehinn/react-ToDoList.git
 ```
 
 ```
-cd math-magicians
+cd react-ToDoList
 ```
 
 - [ ] Open the file in your code editor
@@ -164,7 +164,7 @@ npm run build
 ## 🔭 Future Features <a name="future-features"></a>
 
 - [ ] **Improved design.**
-- [ ] **Implement Operation**
+- [ ] **Implement add functionality**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
